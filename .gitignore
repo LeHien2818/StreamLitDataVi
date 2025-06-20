@@ -1,0 +1,5 @@
+venv311
+Temp
+logs
+__pycache__
+.env

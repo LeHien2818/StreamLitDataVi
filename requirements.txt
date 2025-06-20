@@ -1,0 +1,10 @@
+streamlit
+requests
+pandas
+numpy
+pillow
+openai
+pyyaml
+python-dotenv
+librosa
+emoji

@@ -9,3 +9,5 @@ python-dotenv
 librosa
 emoji
 matplotlib
+seaborn
+scikit-learn

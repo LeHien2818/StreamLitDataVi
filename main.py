@@ -206,7 +206,7 @@ def call_llm(prompt):
     """Call OpenAI API with the given prompt"""
     try:
         response = client.chat.completions.create(
-            model="gpt-4.1-nano-2025-04-14",
+            model=OPEN_MODEL_NAME,
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
             max_tokens=4000

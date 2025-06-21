@@ -11,4 +11,3 @@ emoji
 matplotlib
 seaborn
 scikit-learn
-opencv-python
